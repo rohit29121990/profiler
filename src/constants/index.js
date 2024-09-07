@@ -61,7 +61,7 @@ import {
   
   const technologies = [
     {
-      name: "HTML 5",
+      name: "flutter",
       icon: html,
     },
     {
